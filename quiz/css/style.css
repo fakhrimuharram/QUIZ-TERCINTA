@@ -1,0 +1,27 @@
+body {
+  width: 350px;
+  margin: 17% auto;
+  background: #ffffff;
+  border: 1px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.calculator {
+  padding: 20px;
+  border: solid #999999 1px;
+  border-radius: 5px;
+}
+
+.if {
+  border-radius: 5px;
+  width: 44px;
+  height: 25px;
+}
+
+.eq {
+  border-radius: 5px;
+  width: 80px;
+  height: 35px;
+}
+
+
